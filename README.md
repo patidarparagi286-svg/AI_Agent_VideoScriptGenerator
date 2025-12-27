@@ -1,4 +1,5 @@
 🎥 Scriptly.AI – Smart Video Script Generator
+
 Scriptly.AI is an AI-powered video script generator designed to help creators quickly generate engaging and structured video scripts. The tool uses Artificial Intelligence to understand user input and produce ready-to-use scripts for different types of video content.
 
 🚀 Project Overview
